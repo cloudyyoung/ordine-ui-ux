@@ -1,3 +1,3 @@
-# 481-Team-J
+# 481-team-j
 
-Portfolio: [https://cloudyyoung.github.io/481-Team-J/](https://cloudyyoung.github.io/481-Team-J/)
+Portfolio: [https://cloudyyoung.github.io/481-team-j/](https://cloudyyoung.github.io/481-team-j/)
