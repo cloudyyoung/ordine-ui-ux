@@ -13,14 +13,6 @@
 |[Xiang Yu Shi (@AllenShi666)](https://github.com/AllenShi666)  |Architect, Code Reviewer, Coder         |
 |[Yunfan Yang (@CloudyYoung)](https://github.com/CloudyYoung)   |Repository Manager, Code Reviewer, Coder|
 
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
 In alphabetic order.
 
 
