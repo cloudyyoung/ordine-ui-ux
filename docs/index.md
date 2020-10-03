@@ -5,7 +5,7 @@
 
 ## Members & Roles
 |Name|Roles|
-|--|--|
+|-----------------------|-----------------------------------------------------------------------------|
 |[Edward Mah (@edwardm8)](https://github.com/edwardm8)|Code Reviewer, Coder, Content strategist|
 |[Minh Hang Chu (@minhangchu)](https://github.com/minhangchu)|Designer, Coordinator, Code Reviewer|
 |[Nicolas Urrego Urrego (@nicou08)](https://github.com/nicou08)|Technical Writer, Code Reviewer, Coder|
