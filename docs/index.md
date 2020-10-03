@@ -9,7 +9,7 @@
 |:--------------------------------------------------------------|:---------------------------------------|
 |[Edward Mah (@edwardm8)](https://github.com/edwardm8)          |Code Reviewer, Coder, Content strategist|
 |[Minh Hang Chu (@minhangchu)](https://github.com/minhangchu)   |Designer, Coordinator, Code Reviewer    |
-|[Nicolas Urrego Urrego (@nicou08)](https://github.com/nicou08) |Technical Writer, Code Reviewer, Coder  |
+|[Nicolas Urrego (@nicou08)](https://github.com/nicou08) |Technical Writer, Code Reviewer, Coder  |
 |[Xiang Yu Shi (@AllenShi666)](https://github.com/AllenShi666)  |Architect, Code Reviewer, Coder         |
 |[Yunfan Yang (@CloudyYoung)](https://github.com/CloudyYoung)   |Repository Manager, Code Reviewer, Coder|
 
