@@ -13,7 +13,7 @@
 |[Xiang Yu Shi (@AllenShi666)](https://github.com/AllenShi666)  |Architect, Code Reviewer, Coder         |
 |[Yunfan Yang (@CloudyYoung)](https://github.com/CloudyYoung)   |Repository Manager, Code Reviewer, Coder|
 
-In alphabetic order.
+In alphabetical order.
 
 
 
