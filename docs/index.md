@@ -4,6 +4,7 @@
 > Get a good grade, make a visually appealing application, create a useful application
 
 ## Members & Roles
+
 | Name                                                          | Roles                                  |
 |:--------------------------------------------------------------|:---------------------------------------|
 |[Edward Mah (@edwardm8)](https://github.com/edwardm8)          |Code Reviewer, Coder, Content strategist|
@@ -11,6 +12,14 @@
 |[Nicolas Urrego Urrego (@nicou08)](https://github.com/nicou08) |Technical Writer, Code Reviewer, Coder  |
 |[Xiang Yu Shi (@AllenShi666)](https://github.com/AllenShi666)  |Architect, Code Reviewer, Coder         |
 |[Yunfan Yang (@CloudyYoung)](https://github.com/CloudyYoung)   |Repository Manager, Code Reviewer, Coder|
+
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 In alphabetic order.
 
