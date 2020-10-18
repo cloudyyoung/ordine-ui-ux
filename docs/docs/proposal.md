@@ -96,10 +96,10 @@ Mobile App
 
 ## Online Repository
 
-- https://github.com/CloudyYoung/cpsc- 481 - team-j
+- [https://github.com/CloudyYoung/cpsc-481-team-j](https://cloudyyoung.github.io/cpsc-481-team-j/)
 
 ## Portfolio
 
-- https://cloudyyoung.github.io/cpsc- 481 - team-j/
+- [https://cloudyyoung.github.io/cpsc-481-team-j/](https://cloudyyoung.github.io/cpsc-481-team-j/)
 
 
