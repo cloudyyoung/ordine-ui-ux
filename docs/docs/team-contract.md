@@ -7,7 +7,7 @@ description: ""
 permalink: /stage-1/team-contract
 ---
 
-# Team Contracts
+# Team Contract
 Date: ​Sep 22nd, 2020
 
 

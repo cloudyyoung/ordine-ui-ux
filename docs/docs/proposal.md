@@ -8,7 +8,7 @@ permalink: /stage-1/proposal
 ---
 
 # Project Proposal
-Date: Oct 2nd, 2020
+Date: Sep 22nd, 2020
 
 ## Team Member:
  - Edward Mah
