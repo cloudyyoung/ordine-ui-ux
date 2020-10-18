@@ -1,5 +1,8 @@
 # Team J
 
+## Stage 2
+View our stage 2 report here: [stage-two.pdf](stage-two.pdf)
+
 ## Team Goal
 > Get a good grade, make a visually appealing application, create a useful application
 
