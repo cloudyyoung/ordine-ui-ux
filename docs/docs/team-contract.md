@@ -25,18 +25,20 @@ What are my goals for the project?  | Attractive and practical UI, good grade
 What are my hopes and fears about the group?  | Hope: working remotely is as effective and efficient as in-person group project. Fears: Team members is not responsive and leave everything towards the deadline
 
 
-#### 2. What do I have to offer the team and project?**
+#### 2. What do I have to offer the team and project?
+
 Q | A
 --|--
-Previous experience (that might be useful to the team...) |both GUI and back-end programming in python, java, c#, a little bit machine learning, software testing
-Special skills (that I can teach/coach/contribute...)|team management and code repository management, programming
+Previous experience (that might be useful to the team...) | both GUI and back-end programming in python, java, c#, a little bit machine learning, software testing
+Special skills (that I can teach/coach/contribute...)| team management and code repository management, programming
 
 #### 3. My Personal Preferences and Work Styles are:
+
 A |
 --|
-Come prepared before meeting, weekly (even daily) meeting to make sure everyone is on the same page.|
-Work hard and efficient as everyone else, treat every group member equally. Make sure to finish my part on time.|
-Be supportive and responsive due to this online course mode.|
+Come prepared before meeting, weekly (even daily) meeting to make sure everyone is on the same page. |
+Work hard and efficient as everyone else, treat every group member equally. Make sure to finish my part on time. |
+Be supportive and responsive due to this online course mode. |
 
 
 ### Member 2: Minh Hang Chu
@@ -45,23 +47,25 @@ Be supportive and responsive due to this online course mode.|
 
 Q | A
 --|--
-What do I want to learn?  |Programming, UX/UI Design Concepts, Team Management, Prototyping, Communication, Project and Product Management
+What do I want to learn?  | Programming, UX/UI Design Concepts, Team Management, Prototyping, Communication, Project and Product Management
 How do I learn? | Reading a Text, Watching a Video, Trial and Errors, Asking questions to TAs, Prof and teammates
-What are my goals for the project?  |Good Grades, Attractive App Design, Smart A.I., Production Management Skills
+What are my goals for the project?  | Good Grades, Attractive App Design, Smart A.I., Production Management Skills
 What are my hopes and fears about the group?  | Fears: Project will take too much time, working close to deadlines, we cannot decide on ideas, team members are not actively involving, working remotely might be hard. Hope: We pull together and complete projects, avoid conflict
 
 #### 2. What do I have to offer the team and project?
+
 Q | A
 --|--
-Previous experience (that might be useful to the team...) |Programming, Graphic Design, Web Design, Photoshop and Adobe Suite, Powerpoint Presentation
-Special skills (that I can teach/coach/contribute...)|Technical Writing, Conflict Resolution, Programming, team management and project management
+Previous experience (that might be useful to the team...) | Programming, Graphic Design, Web Design, Photoshop and Adobe Suite, Powerpoint Presentation
+Special skills (that I can teach/coach/contribute...)| Technical Writing, Conflict Resolution, Programming, team management and project management
 
 #### 3. My Personal Preferences and Work Styles are:
+
 A |
 --|
-Clear communication and planning, prefer agile methodologies in production. Not leaving projects till the last minute.|
-Everyone actively works on projects. Everyone is responsible and diligent for assigned works|
-Prefer to be in a supportive team with team building activities so that we get to know each other and work together better.|
+Clear communication and planning, prefer agile methodologies in production. Not leaving projects till the last minute. |
+Everyone actively works on projects. Everyone is responsible and diligent for assigned works |
+Prefer to be in a supportive team with team building activities so that we get to know each other and work together better. |
 
 
 ### Member 3: Yunfan Yang
@@ -72,22 +76,24 @@ Q | A
 --|--
 What do I want to learn?  |UI/UX Design, Collaborating work
 How do I learn? | Lecture slides, online researching, experiencing
-What are my goals for the project?  |Attractive, fresh and highly usable User Interfaces with great user experience. Good grade.
+What are my goals for the project?  | Attractive, fresh and highly usable User Interfaces with great user experience. Good grade.
 What are my hopes and fears about the group?  | Fears: Teammates are not working together. Me being too perfectionism and unintentionally pissing off other teammates. 70% introvert and afraid of communicating sometimes. Hopes: Mostly use my other 30% extroverts for communications and collaboration. Trying my best.
 
 
 #### 2. What do I have to offer the team and project?
+
 Q | A
 --|--
-Previous experience (that might be useful to the team...) |Designing software Figma. Full-stack product developer (basically). Unprofessional UI/UX designing knowledge. Web development, and several other languages.
-Special skills (that I can teach/coach/contribute...)|How to make a full website, both front-end and back-end. Different designing styles: Microsoft Fluent/Fluid UI, Apple, Google Material Design. How to use Figma.
+Previous experience (that might be useful to the team...) | Designing software Figma. Full-stack product developer (basically). Unprofessional UI/UX designing knowledge. Web development, and several other languages.
+Special skills (that I can teach/coach/contribute...)| How to make a full website, both front-end and back-end. Different designing styles: Microsoft Fluent/Fluid UI, Apple, Google Material Design. How to use Figma.
 
 #### 3. My Personal Preferences and Work Styles are:
-A A |
+
+A |
 --|
-We should communicate, plan and do. Finish everything by the deadline.|
-I would be focusing more on organizing, and small details. I have perfectionism but would try my best to not going too far.|
-Prefer to text rather than voice. Prefer to be a compatible and cooperative team.|
+We should communicate, plan and do. Finish everything by the deadline. |
+I would be focusing more on organizing, and small details. I have perfectionism but would try my best to not going too far. |
+Prefer to text rather than voice. Prefer to be a compatible and cooperative team. |
 
 
 ### Member 4: Nicolas Urrego
@@ -96,25 +102,27 @@ Prefer to text rather than voice. Prefer to be a compatible and cooperative team
 
 Q | A
 --|--
-What do I want to learn?  |New programming languages, UI and UX design, Team management, improve app making skills
+What do I want to learn?  | New programming languages, UI and UX design, Team management, improve app making skills
 How do I learn? | Watching videos, looking at websites, looking through textbooks
 What are my goals for the project?  |Get a good grade, make a very interesting UI, make an UI that’s very useful
 What are my hopes and fears about the group?  | Hopes are that we work as a team, rely on each other, and work hard.  Fears are that we don’t communicate, don’t rely on each other, and that we don’t work hard
 
 
 #### 2. What do I have to offer the team and project?
+
 Q | A
 --|--
-Previous experience (that might be useful to the team...) |Web design, Team management, Programming
+Previous experience (that might be useful to the team...) | Web design, Team management, Programming
 Special skills (that I can teach/coach/contribute...)|Web design, Teach C++/Java/CSS/HTML
 
 
 #### 3. My Personal Preferences and Work Styles are:
-A A |
+
+A |
 --|
-Each work member has a task that has a deadline|
-If one of us has an issue with something, we should communicate and ask for help if necessary|
-Plan the whole project out throughout the semester and set the necessary deadlines that must be completed at a certain time|
+Each work member has a task that has a deadline |
+If one of us has an issue with something, we should communicate and ask for help if necessary |
+Plan the whole project out throughout the semester and set the necessary deadlines that must be completed at a certain time |
 
 
 ### Member 5: Edward Mah
@@ -130,18 +138,19 @@ What are my hopes and fears about the group?  | Hope that everyone can work on t
 
 
 #### 2. What do I have to offer the team and project?
+
 Q | A
 --|--
-Previous experience (that might be useful to the team...) |Programing, making simple UI
-Special skills (that I can teach/coach/contribute...)|Programming, teamwork, conflict resolution
+Previous experience (that might be useful to the team...) | Programing, making simple UI
+Special skills (that I can teach/coach/contribute...)| Programming, teamwork, conflict resolution
 
 
 #### 3. My Personal Preferences and Work Styles are:
 A | 
 --|
-Splitting and working on project overtime|
-Working alone and coming together when stuck|
-Tasks finished at a certain deadline|
+Splitting and working on project overtime |
+Working alone and coming together when stuck |
+Tasks finished at a certain deadline |
 
 
 ## B. Team Contract ​
