@@ -9,7 +9,7 @@ permalink: /stage-1/proposal
 
 # Project Proposal
 Date: Sep 22nd, 2020  
-PDF: [proposal.pdf](/proposal.pdf)
+PDF: [proposal.pdf](proposal.pdf)
 
 ## Team Member:
  - Edward Mah
