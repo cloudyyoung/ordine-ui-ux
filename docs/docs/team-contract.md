@@ -2,7 +2,7 @@
 layout: default
 title: Team Contract
 parent: Stage 1
-nav_order: 1
+nav_order: 2
 description: ""
 permalink: /stage-1/team-contract
 ---
