@@ -11,13 +11,13 @@ permalink: /stage-1/team-contract
 Date: ​Sep 22nd, 2020
 
 
-## A. Preparation for Team Contract ​(Based off template from Nathaly Verwaal)
+## A. Preparation for Team Contract
 
 ### Member 1: Xiang Yu Shi
 
 #### 1. What do I want to get out of the team project?
 
-Q|A
+Q | A
 --|--
 What do I want to learn?  |Programming in GUI, Team Management, UI/UX design
 How do I learn? | Watching some tutorial videos, trial and error
@@ -26,13 +26,13 @@ What are my hopes and fears about the group?  | Hope: working remotely is as eff
 
 
 #### 2. What do I have to offer the team and project?**
-Q|A
+Q | A
 --|--
 Previous experience (that might be useful to the team...) |both GUI and back-end programming in python, java, c#, a little bit machine learning, software testing
 Special skills (that I can teach/coach/contribute...)|team management and code repository management, programming
 
 #### 3. My Personal Preferences and Work Styles are:
-|
+A |
 --|
 Come prepared before meeting, weekly (even daily) meeting to make sure everyone is on the same page.|
 Work hard and efficient as everyone else, treat every group member equally. Make sure to finish my part on time.|
@@ -51,13 +51,13 @@ What are my goals for the project?  |Good Grades, Attractive App Design, Smart A
 What are my hopes and fears about the group?  | Fears: Project will take too much time, working close to deadlines, we cannot decide on ideas, team members are not actively involving, working remotely might be hard. Hope: We pull together and complete projects, avoid conflict
 
 #### 2. What do I have to offer the team and project?
-Q|A
+Q | A
 --|--
 Previous experience (that might be useful to the team...) |Programming, Graphic Design, Web Design, Photoshop and Adobe Suite, Powerpoint Presentation
 Special skills (that I can teach/coach/contribute...)|Technical Writing, Conflict Resolution, Programming, team management and project management
 
 #### 3. My Personal Preferences and Work Styles are:
-|
+A |
 --|
 Clear communication and planning, prefer agile methodologies in production. Not leaving projects till the last minute.|
 Everyone actively works on projects. Everyone is responsible and diligent for assigned works|
@@ -77,13 +77,13 @@ What are my hopes and fears about the group?  | Fears: Teammates are not working
 
 
 #### 2. What do I have to offer the team and project?
-Q|A
+Q | A
 --|--
 Previous experience (that might be useful to the team...) |Designing software Figma. Full-stack product developer (basically). Unprofessional UI/UX designing knowledge. Web development, and several other languages.
 Special skills (that I can teach/coach/contribute...)|How to make a full website, both front-end and back-end. Different designing styles: Microsoft Fluent/Fluid UI, Apple, Google Material Design. How to use Figma.
 
 #### 3. My Personal Preferences and Work Styles are:
-|
+A A |
 --|
 We should communicate, plan and do. Finish everything by the deadline.|
 I would be focusing more on organizing, and small details. I have perfectionism but would try my best to not going too far.|
@@ -103,14 +103,14 @@ What are my hopes and fears about the group?  | Hopes are that we work as a team
 
 
 #### 2. What do I have to offer the team and project?
-Q|A
+Q | A
 --|--
 Previous experience (that might be useful to the team...) |Web design, Team management, Programming
 Special skills (that I can teach/coach/contribute...)|Web design, Teach C++/Java/CSS/HTML
 
 
 #### 3. My Personal Preferences and Work Styles are:
-|
+A A |
 --|
 Each work member has a task that has a deadline|
 If one of us has an issue with something, we should communicate and ask for help if necessary|
@@ -130,14 +130,14 @@ What are my hopes and fears about the group?  | Hope that everyone can work on t
 
 
 #### 2. What do I have to offer the team and project?
-Q|A
+Q | A
 --|--
 Previous experience (that might be useful to the team...) |Programing, making simple UI
 Special skills (that I can teach/coach/contribute...)|Programming, teamwork, conflict resolution
 
 
 #### 3. My Personal Preferences and Work Styles are:
-|
+A | 
 --|
 Splitting and working on project overtime|
 Working alone and coming together when stuck|
@@ -161,7 +161,7 @@ Nicolas Urrego |Technical Writer, Code Reviewer, Coder
 Yunfan Yang |Repository Manager, Code Reviewer, Coder
 
 ### 3. Team Organization
-Q|A
+Q | A
 --|--
 How will you communicate? | Microsoft Teams
 Where/when will you meet? | Team J channel on Microsoft Teams, during tutorial time, and other planned time if necessary
