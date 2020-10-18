@@ -186,7 +186,7 @@ designing a complete solution.
 ## References
 
 App: [https://www.opentable.ca/](https://www.opentable.ca/) used the mobile app  
-Survey: [https://forms.gle/mcSy4Ut9WcMAdqfL](https://forms.gle/mcSy4Ut9WcMAdqfL)
+Survey: [Survey](https://forms.gle/yCHfxZ3k8jferAxn7)
 
 ## Repository and Portfolio
 
