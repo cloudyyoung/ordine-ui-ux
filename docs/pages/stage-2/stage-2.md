@@ -205,7 +205,7 @@ Portfolio: [https://cloudyyoung.github.io/cpsc-481-team-j/](https://cloudyyoung.
 - Do you mind waiting for your food at a restaurant?
 - Would you enjoy if the food was instantly served as soon as you sat down in a restaurant?
 - If you were planning to reserve a table at a restaurant and had the menu available to you, would you order right away?
-
+![alt text](surveyq1.PNG)
 
 ### 2. Activity Analysis
 
