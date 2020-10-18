@@ -7,7 +7,7 @@ permalink: /stage-2
 
 # Stage 2
 Date: Oct 19th, 2020  
-Title: `Food Ordering & Reservation App`  
+Title: Food Ordering & Reservation App  
 PDF: [stage-two.pdf](stage-two.pdf)
 
 
