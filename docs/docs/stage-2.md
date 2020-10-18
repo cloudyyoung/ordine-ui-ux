@@ -60,7 +60,7 @@ restaurants to predict capacity, manage their operations and provide better serv
 
 ## Stakeholders
 
-### Customers*
+### Customers
 - Use the app to book reservations, this will allow restaurants to have better preparation,
     customers do not need to wait in line for a long time to get a table.
 - Use the app to view menus and order right away, does not need to wait for waiters to bring
