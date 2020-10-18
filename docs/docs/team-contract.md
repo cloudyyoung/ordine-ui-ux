@@ -19,9 +19,9 @@ Date: ​Sep 22nd, 2020
 
 Q | A
 --|--
-What do I want to learn?  |Programming in GUI, Team Management, UI/UX design
+What do I want to learn? | Programming in GUI, Team Management, UI/UX design
 How do I learn? | Watching some tutorial videos, trial and error
-What are my goals for the project?  |Attractive and practical UI, good grade
+What are my goals for the project?  | Attractive and practical UI, good grade
 What are my hopes and fears about the group?  | Hope: working remotely is as effective and efficient as in-person group project. Fears: Team members is not responsive and leave everything towards the deadline
 
 
