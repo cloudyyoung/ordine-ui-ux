@@ -185,8 +185,8 @@ designing a complete solution.
 
 ## References
 
-App: https://www.opentable.ca/ used the mobile app  
-Survey: https://forms.gle/mcSy4Ut9WcMAdqfL
+App: [https://www.opentable.ca/](https://www.opentable.ca/) used the mobile app  
+Survey: [https://forms.gle/mcSy4Ut9WcMAdqfL](https://forms.gle/mcSy4Ut9WcMAdqfL)
 
 ## Repository and Portfolio
 
@@ -196,7 +196,15 @@ Portfolio: [https://cloudyyoung.github.io/cpsc-481-team-j/](https://cloudyyoung.
 
 ## Appendix
 
-### 1. Some Survey responses:
+### 1. Survey questions and some sample answers:
+- How often do you
+- Do you care where you sit in a restaurant?
+- Do you know what you’re going to order when you dine-in at a restaurant?
+- Would you enjoy if you could view the restaurant’s menu on your phone?
+- Would you prefer calling or using a mobile app to reserve a table at a restaurant on your phone?
+- Do you mind waiting for your food at a restaurant?
+- Would you enjoy if the food was instantly served as soon as you sat down in a restaurant?
+- If you were planning to reserve a table at a restaurant and had the menu available to you, would you order right away?
 
 
 ### 2. Activity Analysis
@@ -231,6 +239,7 @@ Users can edit the reservation easily. They go to the history section and can se
 reservation, giving options to cancel or accept. Also, notifications are given when the time of the
 reservation is coming close.
 Here is a graph of the major usages of the app:
+
 
 This graph shows the percentage of a user's time on the different sections of the app. With this
 we can see what needs to have a well-designed UI and UX experience.
