@@ -4,7 +4,7 @@ title: Proposal
 parent: Stage 1
 nav_order: 1
 description: ""
-permalink: /stage-1
+permalink: /stage-1/proposal
 ---
 
 # Project Proposal

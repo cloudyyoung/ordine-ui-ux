@@ -3,7 +3,7 @@ layout: default
 title: Stage 1
 nav_order: 2
 has_children: true
-permalink: stage_one
+permalink: /stage-1
 ---
 
 # Stage 1
