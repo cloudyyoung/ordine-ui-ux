@@ -8,7 +8,7 @@ permalink: /stage-1/team-contract
 ---
 
 # Team Contract
-Date: ​Sep 22nd, 2020
+Date: ​Sep 22nd, 2020  
 PDF: [team-contract.pdf](team-contract.pdf)
 
 
