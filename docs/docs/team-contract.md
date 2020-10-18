@@ -9,7 +9,7 @@ permalink: /stage-1/team-contract
 
 # Team Contract
 Date: ​Sep 22nd, 2020  
-PDF: [team-contract.pdf](team-contract.pdf)
+PDF: [team-contract.pdf](/team-contract.pdf)
 
 
 ## A. Preparation for Team Contract
