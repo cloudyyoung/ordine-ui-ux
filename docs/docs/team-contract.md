@@ -159,17 +159,20 @@ Tutorial Section: ​ **`T03`**
 Team Number: ​ **`Team J`** 
 
 ### 1. Team Goals
-> Get a good grade, make a visually appealing application, create a useful application_
+   > Get a good grade, make a visually appealing application, create a useful application
+
 ### 2. Team Roles​
+
 Name | Roles
 --|--
-Xiang Yu Shi |Architect, Code Reviewer, Coder
-Edward Mah |Code Reviewer, Coder, Content strategist
-Minh Hang Chu |Designer, Coordinator, Code Reviewer
-Nicolas Urrego |Technical Writer, Code Reviewer, Coder
-Yunfan Yang |Repository Manager, Code Reviewer, Coder
+Xiang Yu Shi | Architect, Code Reviewer, Coder
+Edward Mah | Code Reviewer, Coder, Content strategist
+Minh Hang Chu | Designer, Coordinator, Code Reviewer
+Nicolas Urrego | Technical Writer, Code Reviewer, Coder
+Yunfan Yang | Repository Manager, Code Reviewer, Coder
 
 ### 3. Team Organization
+
 Q | A
 --|--
 How will you communicate? | Microsoft Teams
@@ -185,6 +188,7 @@ Any additional considerations? | prototyping tools
 
 
 ### 4. Expectations from Team Members
+
 Expectation | Consequence if expectation not met
 --|--
 Attend all meetings unless good reason not to | Warning one time, TA warning 2nd time
