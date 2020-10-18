@@ -198,6 +198,7 @@ Communicate | Warning one time, TA warning 2nd time
 
 ---
 
+## C. Signatures  ​
 _All team members participated in formulating the standards, roles, and procedures as stated in this contract.
 We understand that we are obligated to abide by these terms and conditions._
 1. `Xiang Yu Shi`, `2020/09/22`
