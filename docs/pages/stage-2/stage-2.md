@@ -242,12 +242,13 @@ Users can edit the reservation easily. They go to the history section and can se
 reservation, giving options to cancel or accept. Also, notifications are given when the time of the
 reservation is coming close.
 Here is a graph of the major usages of the app:
-
+![alt text](ActivityAnGraph.png)
 
 This graph shows the percentage of a user's time on the different sections of the app. With this
 we can see what needs to have a well-designed UI and UX experience.
 
 
 ### 3. Paper Prototyping Sketches:
-
-
+![alt text](sketch1.jpg)
+![alt text](sketch2.jpg)
+![alt text](sketch3.jpg)
