@@ -7,7 +7,7 @@ permalink: /teammates
 ---
 
 # Teammates
-{: .fs-7 }
+{: .fs-8 }
 
 ![teammates.webp](teammates.webp){: .banner .m-auto }
 
