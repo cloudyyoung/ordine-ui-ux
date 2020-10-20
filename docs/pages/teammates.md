@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teammates
-nav_order: 50
+nav_order: 3
 description: ""
 permalink: /teammates
 ---
