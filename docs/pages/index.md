@@ -7,7 +7,10 @@ permalink: /
 ---
 
 # Food Ordering & Reservation App
+{: .fs-9 }
 
 ## Description
-The system we are designing will be a mobile application that allows customers to reserve their seats at a restaurant, view menus, order food/drinks, pay for their orders in advance, while helping restaurants to predict capacity, manage their operations and provide better services.
+The system we are designing will be a mobile application that allows customers to reserve their seats at a restaurant, view menus, order food/drinks, pay for their orders in advance, while helping restaurants to predict capacity, manage their operations and provide better services. 
+{: .fs-6 .fw-300 }
 
+![teammates.jpg](index.webp){: .banner .m-auto }
