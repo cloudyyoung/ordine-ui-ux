@@ -175,16 +175,16 @@ Yunfan Yang | Repository Manager, Code Reviewer, Coder
 ### 3. Team Organization
 
 Q | A
---|--
-How will you communicate? | Microsoft Teams
-Where/when will you meet? | Team J channel on Microsoft Teams, during tutorial time, and other planned time if necessary
-How will you share files? | Team J channel on Microsoft Teams
-What operating system will you use? | Windows / MacOS
-What editor(s) will you use? | Notepad++, VS code
-What editing style will you use? | Tabs for indentation, Appropriate use of white space, proper
+---|---
+How will you communicate? |  Microsoft Teams
+Where/when will you meet? |  Team J channel on Microsoft Teams, during tutorial time, and other planned time if necessary
+How will you share files? |  Team J channel on Microsoft Teams
+What operating system will you use? |  Windows / MacOS
+What editor(s) will you use? |  Notepad++, VS code
+What editing style will you use? |  Tabs for indentation, Appropriate use of white space, proper
 naming of naming and function, comment before every
 function
-Any additional considerations? | prototyping tools
+Any additional considerations? |  Prototyping tools
 
 
 
