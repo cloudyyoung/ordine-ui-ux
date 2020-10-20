@@ -2,7 +2,7 @@
 .banner{
     @include mq(md){
         width: 70%;
-        margin-left: 50%;
-        transform: translateX(-50%);
+        display: block;
+        margin: auto;
     }
 }
