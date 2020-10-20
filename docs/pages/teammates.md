@@ -5,7 +5,7 @@ nav_order: 90
 description: ""
 permalink: /teammates
 ---
-![alt text](img/teammates.jpg){: .m-md-6 }
+![alt text](img/teammates.jpg){: .banner }
 
 
 Name | Roles
