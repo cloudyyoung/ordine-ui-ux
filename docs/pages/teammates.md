@@ -5,7 +5,7 @@ nav_order: 20
 description: ""
 permalink: /teammates
 ---
-![alt text](img/teammates.jpg){: .banner }
+![teammates.jpg](https://i.loli.net/2020/10/21/ZdIfv1YTCRn3Jpe.jpg){: .banner }
 
 
 Name | Roles
