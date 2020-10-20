@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Teammates
-nav_order: 20
+nav_order: 4
 description: ""
 permalink: /teammates
 ---
-![teammates.jpg](https://i.loli.net/2020/10/21/ZdIfv1YTCRn3Jpe.jpg){: .banner }
+![teammates.jpg](https://i.loli.net/2020/10/21/ZdIfv1YTCRn3Jpe.jpg){: .banner .m-auto }
 
 
 Name | Roles
