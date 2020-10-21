@@ -5,7 +5,9 @@ nav_order: 3
 permalink: /stage-2
 ---
 
-# Stage 2 {: .no_toc }
+# Stage 2
+{: .no_toc }
+
 Date: Oct 19th, 2020  
 Title: Food Ordering & Reservation App  
 PDF: [stage-two.pdf](stage-two.pdf)
@@ -25,7 +27,8 @@ restaurants to predict capacity, manage their operations and provide better serv
 
 ## System Tasks
 
-### Must-be-included tasks {: .no_toc }
+### Must-be-included tasks
+{: .no_toc }
 
 - Customer can book reservations for restaurants. They can choose the date and time from the
     calendar, enter number of people, preferred tables and customers’ details. Able to edit after
@@ -36,14 +39,16 @@ restaurants to predict capacity, manage their operations and provide better serv
 - The host will be able to receive the booking information and manage orders. The host need
     to check customers in when they arrive.
 
-### Important tasks {: .no_toc }
+### Important tasks
+{: .no_toc }
 
 - Customers also get the shareable link to share with their friends and family who are going to
     the restaurants. They can click on the link and order in advance, or when they arrive.
 - Customers can browse the restaurants close to them by allowing the app accessing their
     locations or enter city name.
 
-### Could-be-included tasks {: .no_toc }
+### Could-be-included tasks
+{: .no_toc }
 
 - After the bookings, customers will be asked for feedback on the app and reviews for the
     restaurants.
@@ -55,7 +60,8 @@ restaurants to predict capacity, manage their operations and provide better serv
 - Allow users to pay in the counter in case their cards have issues.
 - Allow users sign in, create a profile, add their favourite restaurants.
 
-### Whom will the system be used by? {: .no_toc }
+### Whom will the system be used by?
+{: .no_toc }
 
 - Customers: who want to book reservations seamlessly to dine in at a restaurant. They can
     also receive their food faster, reduce interactions.
@@ -66,7 +72,8 @@ restaurants to predict capacity, manage their operations and provide better serv
 
 ## Stakeholders
 
-### Customers {: .no_toc }
+### Customers
+{: .no_toc }
 - Use the app to book reservations, this will allow restaurants to have better preparation,
     customers do not need to wait in line for a long time to get a table.
 - Use the app to view menus and order right away, does not need to wait for waiters to bring
@@ -75,7 +82,8 @@ restaurants to predict capacity, manage their operations and provide better serv
     devices (such as menus, credit/debit machine), especially during the pandemic.
 - Able to leave reviews and suggestions for their friends.
 
-### Restaurant Staff {: .no_toc }
+### Restaurant Staff
+{: .no_toc }
 
 - Able to receive reservations without manually taking calls, checking available tables and
     time, increase proficiency for business operations.
@@ -85,7 +93,8 @@ restaurants to predict capacity, manage their operations and provide better serv
     business proficiency, reduce prediction across all stages.
 - List offerings and serve foods once on demand, flexibility to adapt to customers.
 
-### Business owners {: .no_toc }
+### Business owners
+{: .no_toc }
 
 - The app will provide orders & customers’ data which help business owners perform
     analytics and develop marketing strategy and business plan.
@@ -202,7 +211,9 @@ Portfolio: [https://cloudyyoung.github.io/cpsc-481-team-j/](https://cloudyyoung.
 
 ## Appendix
 
-### 1. Survey questions and some sample answers: {: .no_toc }
+### 1. Survey questions and some sample answers:
+{: .no_toc }
+
 - How often do you
 - Do you care where you sit in a restaurant?
 - Do you know what you’re going to order when you dine-in at a restaurant?
@@ -216,7 +227,8 @@ Portfolio: [https://cloudyyoung.github.io/cpsc-481-team-j/](https://cloudyyoung.
 ![alt text](surveyq3.PNG)
 ![alt text](surveyq4.PNG)
 
-### 2. Activity Analysis {: .no_toc }
+### 2. Activity Analysis
+{: .no_toc }
 
 User can select reservation or takeout/delivery.
 
@@ -254,7 +266,9 @@ This graph shows the percentage of a user's time on the different sections of th
 we can see what needs to have a well-designed UI and UX experience.
 
 
-### 3. Paper Prototyping Sketches: {: .no_toc }
+### 3. Paper Prototyping Sketches:
+{: .no_toc }
+
 ![alt text](sketch1.jpg)
 ![alt text](sketch2.jpg)
 ![alt text](sketch3.jpg)

@@ -29,7 +29,8 @@ PDF: [team-contract.pdf](team-contract.pdf)
 
 ### Member 1: Xiang Yu Shi
 
-#### 1. What do I want to get out of the team project? {: .no_toc }
+#### 1. What do I want to get out of the team project?
+{: .no_toc }
 
 Q | A
 --|--
@@ -39,14 +40,16 @@ What are my goals for the project?  | Attractive and practical UI, good grade
 What are my hopes and fears about the group?  | Hope: working remotely is as effective and efficient as in-person group project. Fears: Team members is not responsive and leave everything towards the deadline
 
 
-#### 2. What do I have to offer the team and project? {: .no_toc }
+#### 2. What do I have to offer the team and project?
+{: .no_toc }
 
 Q | A
 --|--
 Previous experience (that might be useful to the team...) | both GUI and back-end programming in python, java, c#, a little bit machine learning, software testing
 Special skills (that I can teach/coach/contribute...)| team management and code repository management, programming
 
-#### 3. My Personal Preferences and Work Styles are: {: .no_toc }
+#### 3. My Personal Preferences and Work Styles are:
+{: .no_toc }
 
 A |
 --|
@@ -57,7 +60,8 @@ Be supportive and responsive due to this online course mode. |
 
 ### Member 2: Minh Hang Chu
 
-#### 1. What do I want to get out of the team project? {: .no_toc }
+#### 1. What do I want to get out of the team project?
+{: .no_toc }
 
 Q | A
 --|--
@@ -66,14 +70,16 @@ How do I learn? | Reading a Text, Watching a Video, Trial and Errors, Asking que
 What are my goals for the project?  | Good Grades, Attractive App Design, Smart A.I., Production Management Skills
 What are my hopes and fears about the group?  | Fears: Project will take too much time, working close to deadlines, we cannot decide on ideas, team members are not actively involving, working remotely might be hard. Hope: We pull together and complete projects, avoid conflict
 
-#### 2. What do I have to offer the team and project? {: .no_toc }
+#### 2. What do I have to offer the team and project?
+{: .no_toc }
 
 Q | A
 --|--
 Previous experience (that might be useful to the team...) | Programming, Graphic Design, Web Design, Photoshop and Adobe Suite, Powerpoint Presentation
 Special skills (that I can teach/coach/contribute...)| Technical Writing, Conflict Resolution, Programming, team management and project management
 
-#### 3. My Personal Preferences and Work Styles are: {: .no_toc }
+#### 3. My Personal Preferences and Work Styles are:
+{: .no_toc }
 
 A |
 --|
@@ -84,7 +90,8 @@ Prefer to be in a supportive team with team building activities so that we get t
 
 ### Member 3: Yunfan Yang
 
-#### 1. What do I want to get out of the team project? {: .no_toc }
+#### 1. What do I want to get out of the team project?
+{: .no_toc }
 
 Q | A
 --|--
@@ -94,14 +101,16 @@ What are my goals for the project?  | Attractive, fresh and highly usable User I
 What are my hopes and fears about the group?  | Fears: Teammates are not working together. Me being too perfectionism and unintentionally pissing off other teammates. 70% introvert and afraid of communicating sometimes. Hopes: Mostly use my other 30% extroverts for communications and collaboration. Trying my best.
 
 
-#### 2. What do I have to offer the team and project? {: .no_toc }
+#### 2. What do I have to offer the team and project?
+{: .no_toc }
 
 Q | A
 --|--
 Previous experience (that might be useful to the team...) | Designing software Figma. Full-stack product developer (basically). Unprofessional UI/UX designing knowledge. Web development, and several other languages.
 Special skills (that I can teach/coach/contribute...)| How to make a full website, both front-end and back-end. Different designing styles: Microsoft Fluent/Fluid UI, Apple, Google Material Design. How to use Figma.
 
-#### 3. My Personal Preferences and Work Styles are: {: .no_toc }
+#### 3. My Personal Preferences and Work Styles are:
+{: .no_toc }
 
 A |
 --|
@@ -112,7 +121,8 @@ Prefer to text rather than voice. Prefer to be a compatible and cooperative team
 
 ### Member 4: Nicolas Urrego
 
-#### 1. What do I want to get out of the team project? {: .no_toc }
+#### 1. What do I want to get out of the team project?
+{: .no_toc }
 
 Q | A
 --|--
@@ -122,7 +132,8 @@ What are my goals for the project?  |Get a good grade, make a very interesting U
 What are my hopes and fears about the group?  | Hopes are that we work as a team, rely on each other, and work hard.  Fears are that we don’t communicate, don’t rely on each other, and that we don’t work hard
 
 
-#### 2. What do I have to offer the team and project? {: .no_toc }
+#### 2. What do I have to offer the team and project?
+{: .no_toc }
 
 Q | A
 --|--
@@ -130,7 +141,8 @@ Previous experience (that might be useful to the team...) | Web design, Team man
 Special skills (that I can teach/coach/contribute...)|Web design, Teach C++/Java/CSS/HTML
 
 
-#### 3. My Personal Preferences and Work Styles are: {: .no_toc }
+#### 3. My Personal Preferences and Work Styles are:
+{: .no_toc }
 
 A |
 --|
@@ -141,7 +153,8 @@ Plan the whole project out throughout the semester and set the necessary deadlin
 
 ### Member 5: Edward Mah
 
-#### 1. What do I want to get out of the team project? {: .no_toc }
+#### 1. What do I want to get out of the team project?
+{: .no_toc }
 
 Q | A
 --|--
@@ -151,7 +164,8 @@ What are my goals for the project?  |Good grade, good project that can be used o
 What are my hopes and fears about the group?  | Hope that everyone can work on the project, fear that we may have to crunch if not able to finish in time
 
 
-#### 2. What do I have to offer the team and project? {: .no_toc }
+#### 2. What do I have to offer the team and project?
+{: .no_toc }
 
 Q | A
 --|--
@@ -159,7 +173,8 @@ Previous experience (that might be useful to the team...) | Programing, making s
 Special skills (that I can teach/coach/contribute...)| Programming, teamwork, conflict resolution
 
 
-#### 3. My Personal Preferences and Work Styles are: {: .no_toc }
+#### 3. My Personal Preferences and Work Styles are:
+{: .no_toc }
 A | 
 --|
 Splitting and working on project overtime |

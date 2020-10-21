@@ -26,11 +26,19 @@ PDF: [proposal.pdf](proposal.pdf)
 
 ## Idea 1
 
-###  What is the problem/service?   {: .no_toc }
+###  What is the problem/service?  
+{: .no_toc }
+
 To allow users to find people to swap/cover their work shift if the company is big enough and users don’t know enough people around them to swap/cover their shift.
-### Why it is important?   {: .no_toc }
+
+### Why it is important?  
+{: .no_toc }
+
 Most of the time, if one person would want to swap their shift or find someone to cover their shift, he would want to deal with the manager and submit a shift change request. This process is typically long and insufficient as the manager has to take the time to ask everyone and see if anyone could cover or swap the shift with the person. In another case, manager would ask that you have found someone to take cover of your shift so the manager can process the request directly, but the problem is there is no way you know everyone in the company, the people you know will most likely have the similar shift and they are going to work at the same time as you do, therefore, almost impossible to find someone to swap shift.
-### How you are going to solve it/ introduce it?   {: .no_toc }
+
+### How you are going to solve it/ introduce it?  
+{: .no_toc }
+
 The solution we proposed is that we create an app with the ability to put
 everyone’s schedule on the calendar. You will have you own account, and the
 manager will have administrator access just in case the schedule needs to be
@@ -47,21 +55,31 @@ you see someone takes your shift, then you can go and talk to the manager to
 give you the approval. Now the manager knows who is working at assigned time
 and you can easily find someone to cover your shift without calling/talking to
 anyone.
-### What kind of a system it will be (mobile app, website, computer software, VR application, voice commends interface, digital music instrument interface, car system UI, etc.)? {: .no_toc }
+
+### What kind of a system it will be (mobile app, website, computer software, VR application, voice commends interface, digital music instrument interface, car system UI, etc.)?
+{: .no_toc }
+
 Mobile app
 
 
 ## Idea 2
 
-### What is the problem/service? {: .no_toc }
-To allow users to order and pay for their food from their phones in restaurants
-       and are able to reserve tables as well
-### Why it is important? {: .no_toc }
+### What is the problem/service?
+{: .no_toc }
+
+To allow users to order and pay for their food from their phones in restaurants and are able to reserve tables as well
+
+### Why it is important?
+{: .no_toc }
+
 This will improve the food service by making it faster and simpler. In addition, in
 times like these while we deal with COVID-19 and hygiene is very important, this
 will reduce the amount of times we touch things many other people have
 touched before us, such as menus.
-### How you are going to solve it/ introduce it? {: .no_toc }
+
+### How you are going to solve it/ introduce it?
+{: .no_toc }
+
 This method of ordering happens to already exist in China, where the user scans
 a QR code that represents a table in the restaurant and that table will be
 charged. Similarly, some restaurants in Canada have a QR code on the tables as
@@ -72,24 +90,34 @@ the need to call that restaurants, and a waiter will admit the user. Once inside
 the waiter will use the user’s app ID to confirm the user is in the restaurant and
 then user can start to ordering. At the end of the meal, the user will notify the
 waiter that they are done and then the waiter will charge the user for the meal.
-### What kind of a system it will be (mobile app, website, computer software, VR application, voice commends interface, digital music instrument interface, car systemUI, etc.)? {: .no_toc }
+
+### What kind of a system it will be (mobile app, website, computer software, VR application, voice commends interface, digital music instrument interface, car systemUI, etc.)?
+{: .no_toc }
+
 Mobile app
 
 ## Idea 3
 
-### What is the problem/service? {: .no_toc }
+### What is the problem/service?
+{: .no_toc }
+
 People have different allergies, and it is hard for them to memorize and decide
 which products they are allergic with. It is troublesome to read small letters of
 ingredients on the cover. The app allows users to identify if there is any potential
 allergies if users use the product by scanning bar/QR code.
-### why it is important? {: .no_toc }
+
+### why it is important?
+{: .no_toc }
+
 Usually, people who have allergy need remember to specific types of food. If
 they want to try something new, they will have to read ingredient tags and see if
 there is any potential allergies behind that. It is important to help this process as
 this will directly affect user health. It can be hard to read from ingredients tags
 with small letters and users might not understand everything.
 
-### How you are going to solve it/ introduce it? {: .no_toc }
+### How you are going to solve it/ introduce it?
+{: .no_toc }
+
 The app will help the process of choosing products simpler by allowing users to
 scan the code and identify if it is safe for users or not. Each user can create their
 profile and choose their allergies. Each item has a bar code that has information
@@ -98,7 +126,9 @@ the item. The app will scan this code and find ingredients information to identi
 if any ingredients can cause potential allergy for user. Instead of reading the
 labels and research ingredients, users now can just scan the code and get results
 right away.
-### What kind of a system it will be (mobile app, website, computer software, VR application, voice commends interface, digital music instrument interface, car systemUI, etc.)? {: .no_toc }
+
+### What kind of a system it will be (mobile app, website, computer software, VR application, voice commends interface, digital music instrument interface, car systemUI, etc.)?
+{: .no_toc }
 Mobile App
 
 ## Online Repository
@@ -108,5 +138,3 @@ Mobile App
 ## Portfolio
 
 - [https://cloudyyoung.github.io/cpsc-481-team-j/](https://cloudyyoung.github.io/cpsc-481-team-j/)
-
-
