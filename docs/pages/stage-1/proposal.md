@@ -8,6 +8,8 @@ permalink: /stage-1/proposal
 ---
 
 # Project Proposal
+{: .no_toc }
+
 Date: Sep 22nd, 2020  
 PDF: [proposal.pdf](proposal.pdf)
 
