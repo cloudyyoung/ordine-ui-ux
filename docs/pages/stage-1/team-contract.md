@@ -8,9 +8,22 @@ permalink: /stage-1/team-contract
 ---
 
 # Team Contract
+
+Team contracts ensure that students on a team discuss what their expectations and goals are before
+they start working. A contract helps students set guidelines and agree on consequences if those
+expectations are not met before problems are encountered. Contracts also help us as instructors to
+support teams that are experiencing problems.
+{: .fs-6 .fw-300 }
+
+
 Date: ​Sep 22nd, 2020  
 PDF: [team-contract.pdf](team-contract.pdf)
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## A. Preparation for Team Contract
 

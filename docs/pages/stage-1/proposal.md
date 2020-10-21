@@ -11,6 +11,12 @@ permalink: /stage-1/proposal
 Date: Sep 22nd, 2020  
 PDF: [proposal.pdf](proposal.pdf)
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## Team Member:
  - Edward Mah
  - Minh Hang Chu

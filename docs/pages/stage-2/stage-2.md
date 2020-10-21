@@ -11,6 +11,12 @@ Title: Food Ordering & Reservation App
 PDF: [stage-two.pdf](stage-two.pdf)
 
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## Description
 
 The system we are designing will be a mobile application that allows customers to reserve their seats
