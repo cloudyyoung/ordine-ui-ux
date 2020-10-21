@@ -14,7 +14,7 @@
     width: $nav-width-md;
     height: 100%;
     flex-direction: column;
-    border-right: $border $border-color;
+    // border-right: $border $border-color;
     align-items: flex-end;
   }
 
@@ -59,7 +59,7 @@
     justify-content: space-between;
     height: $header-height;
     background-color: $body-background-color;
-    border-bottom: $border $border-color;
+    // border-bottom: $border $border-color;
   }
 
   &.nav-open {
@@ -105,7 +105,7 @@
   @include mq(md) {
     height: $header-height;
     max-height: $header-height;
-    border-bottom: $border $border-color;
+    // border-bottom: $border $border-color;
   }
 }
 
