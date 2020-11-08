@@ -94,7 +94,8 @@ reviews for a restaurant.
   - User can view information about account
 
 ## Storyboard
-![storyboard.png](storyboard.png)
+![storyboard.png](storyboard.png)  
+
 A group of students have a reservation on Halloween at 6pm for 4 people. Since it happened to snow recently, some roads are closed so the students decide to change the reservation for next Friday at the same time. Unfortunately, one of the students got sick the day before Friday and won’t be able to come, so the students change the reservation from 4 to 3 people that will attend.
 
 
@@ -139,10 +140,10 @@ diagram to us and eventually we were able to group them.
 ## Appendix
 
 ### 1. Sketches
-![sketches.png](sketches.png)
+![sketches.png](sketches.png)  
 
 ### 2. Affinity Diagram
-![affinity.png](affinity.png)
+![affinity.png](affinity.png)  
 
 ### 3. User-centered Task Table
 
