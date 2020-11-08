@@ -96,30 +96,31 @@ reviews for a restaurant.
     o User can view information about account
 
 ## Storyboard
+![storyboard.png](storyboard.png)
 A group of students have a reservation on Halloween at 6pm for 4 people. Since it happened to snow recently, some roads are closed so the students decide to change the reservation for next Friday at the same time. Unfortunately, one of the students got sick the day before Friday and won’t be able to come, so the students change the reservation from 4 to 3 people that will attend.
 
 
 ## Cognitive Evaluation
 During our prototyping and task-centered system cognitive walkthrough we found some of our
 tasks were not needed for our app and some we needed to add. We decided to break the tasks
-into 5 major tasks and made the steps what we could do with that task.  
+into 5 major tasks and made the steps what we could do with that task.    
 The restaurant tasks, where the restaurant could confirm that the group for the reservation has
 arrived and allowing them to customize their own page. We decided that implementing this during
 our prototype stage was going to be too much, we would have to create a separate UI for the
-restaurant.  
+restaurant.    
 The task where we have that users can see the menu after booking was limiting the user. We
 changed the task so the viewer can just view the menu when they view the restaurant instead of
-having to book first.  
+having to book first.    
 We also decided to change how the sharable link task works. Instead, people would have to have
 an account, the host would be able to add users by their email linked with their account. We
-included some of our could be included tasks and removed others that felt extra.  
+included some of our could be included tasks and removed others that felt extra.    
 We also realized that a sign in/sign up option would be crucial for our app for some of our functions
 such as favorites. We could allow the user to sign in as a guess as well. So, we moved it up to must
 be included tasks. Added in our walkthrough many of the things they can do with account
 Some important tasks we added are many more horizontal tasks. We made many tasks that allow
-users to edit their choices such as reservations and menu.  
+users to edit their choices such as reservations and menu.    
 We changed the task: Allow users to pay in the counter in case their cards have issues. Users that
-want to pre-order must pay beforehand.  
+want to pre-order must pay beforehand.    
 
 ## Reflection
 What we learned from this stage is the process of building up a project. The brainstorm part we
