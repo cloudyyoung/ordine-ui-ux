@@ -143,3 +143,222 @@ diagram to us and eventually we were able to group them.
 
 
 ### 3. User-centered Task Table
+
+<table>
+    <tr>
+        <td>Main Task</td>
+        <td>Description of task step</td>
+        <td>Does user have training or knowledge to do this step? </td>
+        <td>Is it believable that they would do it?</td>
+        <td>Are they motivated?</td>
+        <td>Comments (including possible solutions)</td>
+    </tr>
+    <tr>
+        <td rowspan="11">Reserving</td>
+        <td>Browse, search, and filter restaurants</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Scroll through restaurants, search and filter</td>
+    </tr>
+    <tr>
+        <td>View the restaurant information</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Customers can view the detailed information of a restaurant, including the name, address, rates and reviews, and categories</td>
+    </tr>
+    <tr>
+        <td>Add a restaurant to favorite</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>On the restaurant information page, they would tap the heart icon to add the restaurant as favorite</td>
+    </tr>
+    <tr>
+        <td>Remove a restaurant from favorite</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>On the restaurant information page, tap the heart icon again to remove</td>
+    </tr>
+    <tr>
+        <td>Reserve a table at a restaurant (select the date, time, number of people, seating preferences and customers’ details) MUST</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Reservation page for users to select options for date, time, number of people and seat preference</td>
+    </tr>
+    <tr>
+        <td>Edit a reservation (reselect the date, time, number of people, seating preferences and customers’ details)</td>
+        <td>Yes</td>
+        <td></td>
+        <td>Yes</td>
+        <td>Customers can click on the reservation card to edit information about the reservation</td>
+    </tr>
+    <tr>
+        <td>Delete a reservation</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Customers will see the delete button on the reservation card to cancel a reservation. A pop up will appear to confirm it</td>
+    </tr>
+    <tr>
+        <td>View restaurant menu MUST</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Have a menu button when they select a restaurant</td>
+    </tr>
+    <tr>
+        <td>Invite other customers to a reservation by their accounts, to make the reservation into a group reservation and order together</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>A customer can make a reservation as the reservation owner. After the reservation is official and confirmed by the hostess. The customers can invite other accounts to the reservation. All the customers in the group can all order their food for their own.</td>
+    </tr>
+    <tr>
+        <td>View other customers in a group reservation</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>For all customers in a group reservation, they can view other customers in the group</td>
+    </tr>
+    <tr>
+        <td>Remove other customers from a group reservation</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>For a group reservation owner, they can remove any other customers in the group if necessary</td>
+    </tr>
+    <tr>
+        <td rowspan="7">Account</td>
+        <td>Sign in as a guest or a user MUST</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Have a main screen to determine if the user wants to sign in or be a guest</td>
+    </tr>
+    <tr>
+        <td>Create an account </td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>Give an option to create an account. Give quick sign in options by third parties, like Google / Facebook</td>
+    </tr>
+    <tr>
+        <td>View account information</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Modify account preference setting</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Modify account privacy setting</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Visit help center</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Sign out from account</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="5">Ordering</td>
+        <td>Browse dishes by categories</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Customers can browse dishes by categories by clicking the name of categories</td>
+    </tr>
+    <tr>
+        <td>Add dishes to food cart</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Customers can choose to order when they arrive the restaurant</td>
+    </tr>
+    <tr>
+        <td>Remove dishes from food cart</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Customers can remove dishes by certain amount too</td>
+    </tr>
+    <tr>
+        <td>Pay for food cart MUST</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Customers presses checkout on the food cart and is taken to the bill screen</td>
+    </tr>
+    <tr>
+        <td>Review the order to confirm and see the total price</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>After adding all the dishes, users will have to review the order to confirm on order page</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Payment</td>
+        <td>Review summary of the order</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Choose payment method</td>
+        <td>Yes</td>
+        <td>Yes </td>
+        <td>Yes</td>
+        <td>Customers can pay with PayPal, credit/debit cards</td>
+    </tr>
+    <tr>
+        <td>Add tips</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>Customer can pay tip for a reservation after finishing meal through app</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Reviewing</td>
+        <td>Rate restaurant comment</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>A “Rate this restaurant” button will be displayed when a reservation is ended, and they will be asked to rate the restaurant and write comments as review</td>
+    </tr>
+    <tr>
+        <td>Edit or delete rating comment</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>On review section, customers can see their previous review and edit or delete them</td>
+    </tr>
+    <tr>
+        <td>Add a rating out of 5 to the restaurant</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>User can click whichever star they think is best adequate for the restaurant</td>
+    </tr>
+</table>
