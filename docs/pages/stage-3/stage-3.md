@@ -70,8 +70,6 @@ reviews for a restaurant.
 - User can browse restaurant dishes by category
 - User can add a review to a restaurant
 - User can edit the review they wrote of a restaurant
-
-
 - User can give a restaurant rating out of 5
 - User can view menu prior to making a reservation
 - User can view menu when preordering
@@ -80,20 +78,20 @@ reviews for a restaurant.
 ### Vertical
 
 - User making reservation
-    o User can click on the date input to have a calendar view
-    o User can select the time for the reservation
-    o User can select the number of people for the reservation
-    o User can select seat preference in the restaurant
+  - User can click on the date input to have a calendar view
+  - User can select the time for the reservation
+  - User can select the number of people for the reservation
+  - User can select seat preference in the restaurant
 - User paying for food
-    o User can add a dish to the food cart
-    o User can modify dish before adding it to the food cart
-    o User can remove a dish from the food cart
-    o User can choose method of payment and insert credit card details
+  - User can add a dish to the food cart
+  - User can modify dish before adding it to the food cart
+  - User can remove a dish from the food cart
+  - User can choose method of payment and insert credit card details
 - User can sign in
-    o User can sign in as a guest or sign in account
-    o User can create an account
-    o User can log-out from account
-    o User can view information about account
+  - User can sign in as a guest or sign in account
+  - User can create an account
+  - User can log-out from account
+  - User can view information about account
 
 ## Storyboard
 ![storyboard.png](storyboard.png)
