@@ -9,7 +9,7 @@ permalink: /stage-3
 {: .no_toc }
 
 Date: Nov 09th, 2020  
-Title: Reserving and Ordering Application
+Title: Reserving and Ordering Application  
 PDF: [stage-three.pdf](stage-three.pdf)
 
 
@@ -34,18 +34,21 @@ reviews for a restaurant.
 ## Three Ideas
 
 ### I. Customer is able to click the preorder button and is able to add things to the food cart of that reservation
+{: .no_toc }
 
 - The user is able to click on a confirmed reservation and preorder
 - The user is able to add and remove items from the food cart
 - When the user checks-out, they are taken to the payment page
 
 ### II. Customer is able to modify reservation
+{: .no_toc }
 
 - The user is able to change the date and time of a confirmed reservation
 - The user host is able to add and remove other users from this reservation
 - The invited user is able to remove themselves from the reservation
 
 ### III. Navigation bar with buttons at the bottom
+{: .no_toc }
 
 - The four most important buttons are displayed at the bottom. (Restaurants, Search, Reservation, Account)
 - The navigation bar is not always displayed in every screen of the app
