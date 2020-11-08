@@ -137,10 +137,10 @@ diagram to us and eventually we were able to group them.
 ## Appendix
 
 ### 1. Sketches
-
+![sketches.png](sketches.png)
 
 ### 2. Affinity Diagram
-
+![affinity.png](affinity.png)
 
 ### 3. User-centered Task Table
 
