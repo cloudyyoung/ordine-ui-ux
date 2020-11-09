@@ -11,10 +11,10 @@ permalink: /stage-3/presentation
 Date: Nov 9th, 2020  
 
 <video controls autoplay style="height: 100%; width: 100%;">
-  <source src="https://github.com/CloudyYoung/cpsc-481-team-j/blob/master/docs/pages/stage-3/presentation.mp4" type="video/mp4">
+  <source src="presentation.mp4" type="video/mp4">
     Your browser does not support palaying video.
 </video>
 
-<object data="https://github.com/CloudyYoung/cpsc-481-team-j/blob/master/docs/pages/stage-3/presentation.pdf" type="application/pdf" style="width: 100%; height: 100%;">
-    <embed src="https://github.com/CloudyYoung/cpsc-481-team-j/blob/master/docs/pages/stage-3/presentation.pdf" type="application/pdf"  style="width: 100%; height: 100%;"/>
+<object data="presentation.pdf" type="application/pdf" style="width: 100%; height: 100%;">
+    <embed src="presentation.pdf" type="application/pdf"  style="width: 100%; height: 100%;"/>
 </object>
