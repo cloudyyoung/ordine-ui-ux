@@ -2,13 +2,13 @@
 layout: default
 title: Presentation
 parent: Stage 3
-nav_order: 1
+nav_order: 2
 permalink: /stage-3/presentation
 ---
 
 # Presentation
 
-Date: Nov 9th, 2020  
+Date: Nov 8th, 2020  
 PDF: [presentation.pdf](presentation.pdf)
 
 <video controls autoplay style="height: 100%; width: 100%;">
