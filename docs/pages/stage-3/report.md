@@ -8,7 +8,7 @@ permalink: /stage-3/report
 # Report
 {: .no_toc }
 
-Date: Nov 09th, 2020  
+Date: Nov 9th, 2020  
 Title: Reserving and Ordering Application  
 PDF: [stage-three.pdf](stage-three.pdf)
 
