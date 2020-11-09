@@ -16,5 +16,5 @@ Date: Nov 9th, 2020
 </video>
 
 <object data="presentation.pdf" type="application/pdf" style="width: 100%; height: 100%;">
-    <embed src="presentation.pdf" type="application/pdf" />
+    <embed src="presentation.pdf" type="application/pdf"  style="width: 100%; height: 100%;"/>
 </object>
