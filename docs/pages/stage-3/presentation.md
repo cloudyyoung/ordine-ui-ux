@@ -15,6 +15,6 @@ Date: Nov 9th, 2020
     Your browser does not support palaying video.
 </video>
 
-<object data="presentation.pdf" type="application/pdf">
-    <embed src="presentation.pdf" type="application/pdf" />
+<object data="stage-3/presentation.pdf" type="application/pdf">
+    <embed src="stage-3/presentation.pdf" type="application/pdf" />
 </object>
