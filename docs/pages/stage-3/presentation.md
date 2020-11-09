@@ -11,10 +11,10 @@ permalink: /stage-3/presentation
 Date: Nov 9th, 2020  
 
 <video controls autoplay style="height: 100%; width: 100%;">
-  <source src="stage-3/presentation.mp4" type="video/mp4">
+  <source src="presentation.mp4" type="video/mp4">
     Your browser does not support palaying video.
 </video>
 
-<object data="stage-3/presentation.pdf" type="application/pdf" style="width: 100%; height: 100%;">
-    <embed src="stage-3/presentation.pdf" type="application/pdf" />
+<object data="presentation.pdf" type="application/pdf" style="width: 100%; height: 100%;">
+    <embed src="presentation.pdf" type="application/pdf" />
 </object>
