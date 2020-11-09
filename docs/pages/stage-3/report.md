@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Report
+parent: Stage 3
 nav_order: 1
 permalink: /stage-3/report
 ---

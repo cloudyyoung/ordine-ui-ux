@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Prototypr
+title: Prototype
+parent: Stage 3
 nav_order: 1
 permalink: /stage-3/prototype
 ---
