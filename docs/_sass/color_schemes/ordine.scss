@@ -3,6 +3,20 @@ $body-font-family: 'NTR', system-ui, -apple-system, BlinkMacSystemFont, "Segoe U
   Roboto, "Helvetica Neue", Arial, sans-serif;
 $root-font-size: 20px;
 
+
+$font-size-1: 12px !default;
+$font-size-1-sm: 13px !default;
+$font-size-2: 14px !default; //h4 - uppercased!, h6 not uppercased, text-small
+$font-size-3: 15px !default; //h5
+$font-size-4: 17px !default;
+$font-size-5: 18px !default; //h3
+$font-size-6: 22px !default; //h2
+$font-size-7: 24px !default;
+$font-size-8: 32px !default; //h1
+$font-size-9: 36px !default;
+$font-size-10: 42px !default;
+$font-size-10-sm: 48px !default;
+
 $red-ordine: #ce3535;
 
 $link-color: $red-ordine;
