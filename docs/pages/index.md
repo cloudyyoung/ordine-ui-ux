@@ -14,4 +14,4 @@ The system we are designing will be a mobile application that allows customers t
 
 [Stage Three](stage-3/report.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View on GitHub](https://github.com/cloudyyoung/cpsc-481-team-j/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-![index.webp](index.webp){: .banner .m-auto }
+![index.webp](index.svg){: .banner .m-auto }
