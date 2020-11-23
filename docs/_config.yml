@@ -64,7 +64,7 @@ heading_anchors: false
 
 # Aux links for the upper right navigation
 aux_links:
-  "Team J on GitHub":
+  "Repository on GitHub":
     - "//github.com/cloudyyoung/cpsc-481-team-j/"
 
 # Makes Aux links open in a new tab. Default is false
