@@ -25,7 +25,7 @@ $btn-primary-color:$red-ordine;
 .btn-primary{
     background-color: darken($red-ordine, 3%);
     background-image: linear-gradient($red-ordine, $red-ordine);
-    box-shadow: 0px 22px 80px rgba(0, 0, 0, 0.06), 0px 9.19107px 33.4221px rgba(0, 0, 0, 0.0431313), 0px 4.91399px 17.869px rgba(0, 0, 0, 0.0357664), 0px 2.75474px 10.0172px rgba(0, 0, 0, 0.03), 0px 1.46302px 5.32008px rgba(0, 0, 0, 0.0242336), 0px 0.608796px 2.21381px rgba(0, 0, 0, 0.0168687) !important;
+    box-shadow: 0px 22px 80px rgba(206, 53, 53, 0.06), 0px 9.19107px 33.4221px rgba(206, 53, 53, 0.0431313), 0px 4.91399px 17.869px rgba(206, 53, 53, 0.0357664), 0px 2.75474px 10.0172px rgba(206, 53, 53, 0.03), 0px 1.46302px 5.32008px rgba(206, 53, 53, 0.0242336), 0px 0.608796px 2.21381px rgba(206, 53, 53, 0.0168687) !important;
 }
 
 .btn{
@@ -33,4 +33,5 @@ $btn-primary-color:$red-ordine;
     border-radius: 50px !important;
     padding-right: 1.2em;
     padding-left: 1.2em;
+    box-shadow: 0px 22px 80px rgba(0, 0, 0, 0.06), 0px 9.19107px 33.4221px rgba(0, 0, 0, 0.0431313), 0px 4.91399px 17.869px rgba(0, 0, 0, 0.0357664), 0px 2.75474px 10.0172px rgba(0, 0, 0, 0.03), 0px 1.46302px 5.32008px rgba(0, 0, 0, 0.0242336), 0px 0.608796px 2.21381px rgba(0, 0, 0, 0.0168687) !important;
 }
