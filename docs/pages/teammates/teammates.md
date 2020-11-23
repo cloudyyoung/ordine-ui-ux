@@ -9,7 +9,7 @@ permalink: /teammates
 # Teammates
 {: .fs-9 }
 
-![teammates.webp](teammates.webp){: .banner .m-auto }
+![teammates.webp](teammates.svg){: .banner .m-auto }
 
 
 Name | Roles
