@@ -10,7 +10,7 @@ permalink: /stage-4/report
 {: .no_toc }
 
 Date: Nov 23th, 2020  
-Title: Ordine
+Title: Ordine  
 PDF: [stage-four.pdf](stage-four.pdf)
 
 
