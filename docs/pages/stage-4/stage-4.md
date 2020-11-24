@@ -6,5 +6,5 @@ has_children: true
 permalink: /stage-4
 ---
 
-# Stage 3
+# Stage 4
 {: .no_toc }
