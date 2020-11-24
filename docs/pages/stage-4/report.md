@@ -92,9 +92,9 @@ Since being able to make reservations is one of our app&#39;s main functions, th
 
 ## Appendix
 
-GitHub repository: [CloudyYoung/cpsc-481-team-j: Human-Computer Interaction I - Fall 2020 (github.com)](https://github.com/CloudyYoung/cpsc-481-team-j)
+GitHub repository: [CloudyYoung/cpsc-481-team-j: Human-Computer Interaction I - Fall 2020 (github.com)](https://github.com/CloudyYoung/cpsc-481-team-j)   
 
-Portfolio: [Home | Team J (cloudyyoung.github.io)](https://cloudyyoung.github.io/cpsc-481-team-j/)
+Portfolio: [Home | Team J (cloudyyoung.github.io)](https://cloudyyoung.github.io/cpsc-481-team-j/)   
 
 ## Heuristic Evaluation
 
