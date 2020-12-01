@@ -78,7 +78,6 @@ p {
 	line-height: 2.0rem;
 }
 
-
 /* Basic */
 
 	html {
@@ -1756,11 +1755,6 @@ p {
 		border: 0;
 	}
 
-
-	#StageThree .image img {
-		border-radius: 36px;
-	}
-
 		.image img {
 			display: block;
 			width: 100%;
@@ -2261,7 +2255,7 @@ p {
 			}
 
 			#main > section.two {
-				background-color: rgb(120, 120, 120);
+				background-color: rgb(212, 212, 212);
 			}
 
 			#main > section.three {
