@@ -1959,7 +1959,7 @@ p {
 		border-radius: 500px;
 		color: #fff !important;
 		text-decoration: none;
-		padding: 0.7em 2em 0.7em 2em;
+		padding: 0.7em 2em 0.7em 2em !important;
 		background-color: #ce3535;
 		border: 0;
 		cursor: pointer;
@@ -1968,6 +1968,7 @@ p {
 		-ms-transition: background-color 0.35s ease-in-out;
 		transition: background-color 0.35s ease-in-out;
 		font-size: 0.8em;
+		line-height: 1.8em;
 	}
 
 		input[type="button"]:hover,
