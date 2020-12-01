@@ -1976,7 +1976,7 @@ p {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #fff;
+			background-color: #ce3535;
 		}
 
 		input[type="button"]:active,
@@ -1984,7 +1984,7 @@ p {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #fff;
+			background-color: #ce3535;
 		}
 
 /* Item */
