@@ -78,6 +78,7 @@ p {
 	line-height: 2.0rem;
 }
 
+
 /* Basic */
 
 	html {
@@ -1753,6 +1754,11 @@ p {
 	.image {
 		display: inline-block;
 		border: 0;
+	}
+
+
+	#StageThree .image img {
+		border-radius: 36px;
 	}
 
 		.image img {
