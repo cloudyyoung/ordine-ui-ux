@@ -73,6 +73,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+p {
+	font-size: 1.2rem;
+	line-height: 2.0rem;
+}
+
 /* Basic */
 
 	html {
@@ -114,7 +119,7 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		color: #666;
-		line-height: 1.5em;
+		line-height: 1.7em;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -127,7 +132,7 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 2em;
+		font-size: 1.8em;
 		letter-spacing: -1px;
 	}
 
@@ -2587,7 +2592,7 @@ input, select, textarea {
 			}
 
 			h2 {
-				font-size: 1.5em;
+				font-size: 1.3em;
 				letter-spacing: 0;
 				font-weight: 300;
 			}
