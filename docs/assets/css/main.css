@@ -2255,15 +2255,15 @@ p {
 				padding: 10em 0;
 				background-size: cover;
 				background-position: center center;
+				background-color: rgba(206, 53, 53, 0.96);
 			}
 
 			#main > section.one {
-				background-color: rgba(206, 53, 53, 0.96);
-				background-image: url("../../images/redwhitefade1111.png");
+				background: #fff;
 			}
 
 			#main > section.two {
-				background-color: rgb(230, 230, 230);
+				background-color: #f5f5f5;
 			}
 
 			#main > section.three {
