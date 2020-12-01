@@ -2065,7 +2065,7 @@ p {
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 375px;
+		width: 275px;
 		box-shadow: 0px 22px 80px rgba(0, 0, 0, 0.06), 0px 9.19107px 33.4221px rgba(0, 0, 0, 0.0431313), 0px 4.91399px 17.869px rgba(0, 0, 0, 0.0357664);
 	}
 
@@ -2172,6 +2172,7 @@ p {
 						text-align: center;
 						width: 1.25em;
 						line-height: 1.75em;
+						display: none;
 					}
 
 				#nav ul li a.active {
