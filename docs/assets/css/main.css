@@ -2122,10 +2122,11 @@ p {
 		#logo p {
 			position: relative;
 			display: block;
-			font-size: 0.6em;
 			color: #000;
 			line-height: 1.25em;
 			margin: 0.5em 0 0 0;
+			font-weight: 500;
+			font-size: 0.5em;
 		}
 
 		#logo .image {
