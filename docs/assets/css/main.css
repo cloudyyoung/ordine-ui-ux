@@ -1755,6 +1755,10 @@ p {
 		border: 0;
 	}
 
+	#StageThree .image img {
+		border-radius: 40px;
+	}
+
 		.image img {
 			display: block;
 			width: 100%;
