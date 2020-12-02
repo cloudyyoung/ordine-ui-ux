@@ -2182,6 +2182,9 @@ p {
 					background: #F5F5F5;
 					color: #000;
 				}
+					#nav ul li a.active span {
+						font-weight: 600;
+					}
 
 					#nav ul li a.active span:before {
 						color: #ce3535;
