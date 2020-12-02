@@ -2241,6 +2241,7 @@ p {
 				#main > section.dark strong {
 					color: #fff;
 					border-color: inherit;
+					font-weight: 600;
 				}
 
 				#main > section.dark a {
