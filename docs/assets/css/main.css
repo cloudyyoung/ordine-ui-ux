@@ -2164,6 +2164,7 @@ p {
 					position: relative;
 					display: block;
 					font-size: 0.6em;
+					font-weight: 400;
 				}
 
 					#nav ul li a span:before {
