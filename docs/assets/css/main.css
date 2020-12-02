@@ -2699,6 +2699,7 @@ p {
 				border: 0;
 				padding: 0;
 				margin: 1em 0 0 0;
+				text-align: center;
 			}
 
 				#footer .copyright li:first-child {
