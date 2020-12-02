@@ -2256,8 +2256,20 @@ p {
 			}
 
 			#main > section.cover .button{
+				--width: 3.5em;
 				background: #fff;
 				color: #ce3535 !important;
+				padding: 0px;
+				width: var(--width);
+				height: var(--width);
+				border-radius: 50%;
+			}
+
+			#main > section.cover .button svg {
+				position: absolute;
+				top: 50%;
+				left: 50%;
+				transform: translate(-50%, -50%);
 			}
 
 			#main > section.one {
