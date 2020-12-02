@@ -2224,10 +2224,13 @@ p {
 
 			#footer .copyright li {
 				display: inline-block;
-				line-height: 1em;
+				line-height: 1.0em;
 				border-left: solid 1px rgba(128, 128, 128, 0.35);
 				padding: 0 0 0 0.5em;
 				margin: 0 0 0 0.5em;
+				font-size: 0.7em;
+				font-weight: 600;
+				text-transform: uppercase;
 			}
 
 				#footer .copyright li:first-child {
