@@ -2254,6 +2254,7 @@ p {
 				background-size: cover;
 				background-position: center center;
 				background-color: rgba(206, 53, 53, 0.96);
+				height: 100vh;
 			}
 
 			#main > section.cover img {
