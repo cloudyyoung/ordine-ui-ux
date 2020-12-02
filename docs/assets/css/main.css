@@ -2236,6 +2236,7 @@ p {
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
 					color: inherit;
+					font-weight: 300;
 				}
 
 				#main > section.dark strong {
