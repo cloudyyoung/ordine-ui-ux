@@ -75,6 +75,7 @@ input, select, textarea {
 p {
 	font-size: 1.0rem;
 	line-height: 1.6rem;
+	font-weight: 400;
 }
 
 /* Basic */
