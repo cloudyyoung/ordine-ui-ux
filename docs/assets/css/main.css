@@ -1968,6 +1968,7 @@ p {
 		transition: background-color 0.35s ease-in-out;
 		font-size: 0.8em;
 		line-height: 1.8em;
+		font-weight: 500;
 	}
 
 		input[type="button"]:hover,
