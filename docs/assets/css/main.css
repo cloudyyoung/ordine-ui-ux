@@ -2146,7 +2146,7 @@ p {
 
 			#nav ul li a {
 				display: block;
-				padding: 0.5em 1.5em 0.5em 1.5em;
+				padding: 0.35em 1.5em 0.35em 1.5em;
 				color: #000;
 				text-decoration: none;
 				outline: 0;
@@ -2160,7 +2160,7 @@ p {
 				#nav ul li a span {
 					position: relative;
 					display: block;
-					font-size: 0.66em;
+					font-size: 0.6em;
 				}
 
 					#nav ul li a span:before {
