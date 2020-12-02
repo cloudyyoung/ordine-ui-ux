@@ -23,7 +23,9 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+	text-align: left;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -76,6 +78,7 @@ p {
 	font-size: 1.0rem;
 	line-height: 1.6rem;
 	font-weight: 400;
+	text-align: left;
 }
 
 /* Basic */
@@ -94,7 +97,7 @@ p {
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: #646464;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -113,12 +116,12 @@ p {
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: #646464;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 700;
-		color: #646464;
+		color: #000;
 		line-height: 1.7em;
 		margin-bottom: 0.4em;
 	}
@@ -138,7 +141,7 @@ p {
 	}
 
 		h2.alt {
-			color: #888;
+			color: #646464;
 		}
 
 			h2.alt strong {
@@ -154,15 +157,18 @@ p {
 	}
 
 		header > p {
+			text-align: center;
 			margin: 1em 0 0 0;
 		}
+
 
 	footer {
 		margin: 2em 0 0 0;
 	}
 
+
 	strong, b {
-		font-weight: 300;
+		font-weight: 600;
 		color: #666;
 	}
 
@@ -2007,6 +2013,7 @@ p {
 			.item header h3 {
 				font-size: 0.8em;
 				font-weight: 500;
+				text-align: center;
 			}
 
 /* Icons */
@@ -2076,6 +2083,10 @@ p {
 			-webkit-flex-grow: 1;
 			-ms-flex-grow: 1;
 			flex-grow: 1;
+		}
+
+		#header .top * {
+			text-align: right;
 		}
 
 		#header .bottom {
@@ -2201,6 +2212,11 @@ p {
 		font-size: 0.8em;
 	}
 
+	#footer ul{
+		text-align: center;
+	}
+
+
 		#footer .copyright {
 			cursor: default;
 			margin: 0;
@@ -2247,7 +2263,6 @@ p {
 				#main > section.dark strong {
 					color: #fff;
 					border-color: inherit;
-					font-weight: 600;
 				}
 
 				#main > section.dark a {
@@ -2265,6 +2280,10 @@ p {
 				background-position: center center;
 				background-color: rgba(206, 53, 53, 0.96);
 				height: 100vh;
+			}
+
+			#main > section.cover * {
+				text-align: center;
 			}
 
 			#main > section.cover header img {
