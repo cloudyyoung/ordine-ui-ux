@@ -1779,6 +1779,7 @@ p {
 		.image.fit {
 			display: block;
 			width: 100%;
+			margin-bottom: 0.4em;
 		}
 
 		.image.featured {
@@ -1998,11 +1999,12 @@ p {
 			background: #fff;
 			margin: 0;
 			padding: 1em 0 1em 0;
-			font-size: 0.8em;
+			font-size: 0.74em;
 		}
 
 			.item header h3 {
-				font-size: 1em;
+				font-size: 0.8em;
+				font-weight: 500;
 			}
 
 /* Icons */
