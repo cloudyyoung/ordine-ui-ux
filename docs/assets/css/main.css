@@ -31,7 +31,6 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
-	font-size: calc(100vh/130);
 }
 
 ol, ul {
@@ -74,7 +73,7 @@ input, select, textarea {
 }
 
 p {
-	font-size: 1.2rem;
+	font-size: 1.0rem;
 	line-height: 2.0rem;
 }
 
@@ -132,7 +131,7 @@ p {
 		}
 
 	h2 {
-		font-size: 1.8em;
+		font-size: 1.4em;
 		letter-spacing: -1px;
 	}
 
@@ -149,7 +148,7 @@ p {
 	}
 
 	header {
-		margin: 0 0 2em 0;
+		margin: 0 0 1.6em 0;
 	}
 
 		header > p {
@@ -1756,7 +1755,7 @@ p {
 	}
 
 	#StageThree .image img {
-		border-radius: 40px;
+		border-radius: 1.6em;
 	}
 
 
