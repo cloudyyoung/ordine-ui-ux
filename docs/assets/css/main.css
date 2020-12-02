@@ -2257,7 +2257,7 @@ p {
 				height: 100vh;
 			}
 
-			#main > section.cover img {
+			#main > section.cover header img {
 				height: 40vh;
 				margin-bottom: 3em;
 			}
@@ -2273,7 +2273,7 @@ p {
 				box-shadow: 0px 22px 80px rgba(0, 0, 0, 0.06), 0px 9.19107px 33.4221px rgba(0, 0, 0, 0.0431313), 0px 4.91399px 17.869px rgba(0, 0, 0, 0.0357664);
 			}
 
-			#main > section.cover .button svg {
+			#main > section.cover .button img {
 				position: absolute;
 				top: 50%;
 				left: 50%;
