@@ -2256,6 +2256,11 @@ p {
 				background-color: rgba(206, 53, 53, 0.96);
 			}
 
+			#main > section.cover img {
+				height: 40vh;
+				margin-bottom: 3em;
+			}
+
 			#main > section.cover .button{
 				--width: 3.5em;
 				background: #fff;
