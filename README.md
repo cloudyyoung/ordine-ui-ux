@@ -1,4 +1,4 @@
-# cpsc-481-team-j
+# cpsc-481-ordine
 
 For more details, please visit the Portfolio:   
-[https://cloudyyoung.github.io/cpsc-481-team-j/](https://cloudyyoung.github.io/cpsc-481-team-j/)
+[https://cloudyyoung.github.io/ordine-ui-ux/](https://cloudyyoung.github.io/ordine-ui-ux/)
